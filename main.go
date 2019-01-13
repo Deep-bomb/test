@@ -40,6 +40,7 @@ func main() {
 	var st3 string = strconv.FormatBool(isGirl)
 	fmt.Printf("st1 type is %T str=%q\n",st1,st1)
 	fmt.Printf("st2 type is %T str=%q\n",st2,st2)
-	fmt.Printf("st3 type is %T str=%q\n",st3,st3)	
+	fmt.Printf("st3 type is %T str=%q\n",st3,st3)
+	fmt.Println("this is the new line")
 	//fmt.Println(str);	
 }
