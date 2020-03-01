@@ -5,25 +5,6 @@ import (
 )
 
 func main() {
-	//var c1 byte='a';
-// 	str :=`
-// 	#include "draw.h"
-// extern bool gameStart;
-// #include <mmsystem.h>
-// #pragma comment(lib,"winmm.lib")
-// LRESULT CALLBACK MyProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam)
-// {
-// 	switch(msg)
-// 	{
-// 	case WM_PAINT:
-// 	{
-// 		PAINTSTRUCT ps;
-// 		HDC hdc = BeginPaint(hwnd, &ps);
-// 		draw(hdc);
-// 		EndPaint(hwnd, &ps); 
-// 		break;
-// 	}
-// 	`
 	var n int=99
 	var isGirl bool=false
 	var fMath float64=3.141
